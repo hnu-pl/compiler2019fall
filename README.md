@@ -1,5 +1,5 @@
 # Compilers course @ HNU CE undergad
-
+2019년 2학기 한남대학교 컴퓨터공학과 **컴파일러** 과목 홈페이지입니다.
 ###### Weekly class schedule:
 | day |   time      | room#  |
 |-----|-------------|--------|
