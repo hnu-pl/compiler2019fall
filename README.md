@@ -1,11 +1,12 @@
 # Compilers course @ HNU CE undergad
-2019년 2학기 한남대학교 컴퓨터공학과 **컴파일러** 과목 홈페이지입니다.
+2019년 2학기 한남대학교 컴퓨터공학과 **컴파일러**(SL) 과목 홈페이지입니다.
 ###### Weekly class schedule:
 | day |   time      | room#  |
 |-----|-------------|--------|
 | Mon | 10:00-11:50 | 90420  |
 | Tue | 13:00-14:50 | 90119  |
 
+<!-- [Hi-Class 과목 페이지로 바로가기](https://hiclass.hannam.ac.kr/courses/9200) -->
 
 ###### Recommended Prerequisites:
 이 과목의 공식적인 선수과목은 없지만 프로그래밍언어 과목을 수강한 학생들이 듣기에 적당한 과목입니다.
