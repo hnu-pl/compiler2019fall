@@ -8,7 +8,7 @@
 
 ## 교수 연락처 및 공용 메신저
 * 안기영 kya@hnu.kr
-* [잔디 업무용 메신저](https://haskell.jandi.com/)
+* [잔디 업무용 메신저](https://compiler2019.jandi.com/)
 * [Hi-Class 과목 페이지로 바로가기](https://hiclass.hannam.ac.kr/courses/9200)
 
 ###### Recommended Prerequisites:
