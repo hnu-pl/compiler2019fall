@@ -6,7 +6,10 @@
 | Mon | 10:00-11:50 | 90420  |
 | Tue | 13:00-14:50 | 90119  |
 
-<!-- [Hi-Class 과목 페이지로 바로가기](https://hiclass.hannam.ac.kr/courses/9200) -->
+## 교수 연락처 및 공용 메신저
+* 안기영 kya@hnu.kr
+* [잔디 업무용 메신저](https://haskell.jandi.com/)
+* [Hi-Class 과목 페이지로 바로가기](https://hiclass.hannam.ac.kr/courses/9200)
 
 ###### Recommended Prerequisites:
 이 과목의 공식적인 선수과목은 없지만 프로그래밍언어 과목을 수강한 학생들이 듣기에 적당한 과목입니다.
