@@ -41,6 +41,15 @@
         * [온라인에서 바로 실행 가능한 LYHGG의 노트북 버전](https://github.com/jamesdbrock/learn-you-a-haskell-notebook)
     - [가장 쉬운 하스켈 책](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788994774619)
       (미란 리포바카 지음 | 황반석 옮김 | 비제이퍼블릭) LYHGG의 우리말 판
+
+## Software
+주피터에서 실행하는 IHaskell 환경을 기본으로 진행한다.
+ * 설치하지 않고 IHaskell 환경을 무료 클라우드 환경에서 직접 실행하는 방법은 위에 참고도서에 "온라인에서 바로 실행 가능한 LYHGG의 노트북 버전"을 클릭하여 우리 과목의 강의자료 ipynb파일을 업로드해 작업하는 것도 가능하다.
+     - 좀 느리고 저장이 되지 않으므로 작업하던 걸 다운로드 해놓지 않으면 작업하다 날아갈 수도 있으니 유의)
+ * Windows 10기준 최신 Insider Preview의 WSL2에서 Docker이미지를 설치해 자신의 컴퓨터에서 이용하는 방법 https://youtu.be/faV36bsOnJs
+     - 윈도우즈 업데이트 설정이 좀 시간이 걸리지만 해놓으면 편하므로 노트북이나 개인 컴퓨터에서 Windows 10을 사용한다면 이렇게 설치 가능
+ * Windows 8이하에서 가상머신 등을 이용하는 방법도 있기는 한데 ...
+
 ## Tentative Plan
  * 09/02 (2hr) 과목소개 및 Haskell 프로그래밍 기초
  * 09/03 (1hr) Haskell 프로그래밍 (재귀함수, 고차함수 등)
