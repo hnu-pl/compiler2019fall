@@ -6,7 +6,7 @@
 | Mon | 10:00-11:50 | 90420  |
 | Tue | 13:00-14:50 | 90215(정보보안실습실)  |
 
-## 교수 연락처 및 공용 메신저
+## 교수 연락처 / 공용 메신저 / 학교 공식 LMS
 * 안기영 kya@hnu.kr
 * [잔디 업무용 메신저 바로가기](https://compiler2019.jandi.com/)
 * [Hi-Class 과목 페이지로 바로가기](https://hiclass.hannam.ac.kr/courses/9200)
