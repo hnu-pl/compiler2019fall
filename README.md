@@ -1,12 +1,15 @@
 # Compilers course @ HNU CE undergad
-2019년 2학기 한남대학교 컴퓨터공학과 **컴파일러**(SL) 과목 홈페이지입니다. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hnu-pl/compiler2019fall/master?urlpath=lab)
+2019년 2학기 한남대학교 컴퓨터공학과 **컴파일러**(SL) 과목 홈페이지입니다.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hnu-pl/compiler2019fall/master?urlpath=lab)
+[![NBviewer](./nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/hnu-pl/compiler2019fall/tree/master/)
+
 ###### Weekly class schedule:
 | day |   time      | room#  |
 |-----|-------------|--------|
 | Mon | 10:00-11:50 | 90420  |
 | Tue | 13:00-14:50 | 90215(정보보안실습실)  |
 
-## 교수 연락처 및 공용 메신저
+## 교수 연락처 / 공용 메신저 / 학교 공식 LMS
 * 안기영 kya@hnu.kr
 * [잔디 업무용 메신저 바로가기](https://compiler2019.jandi.com/)
 * [Hi-Class 과목 페이지로 바로가기](https://hiclass.hannam.ac.kr/courses/9200)
